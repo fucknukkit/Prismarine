@@ -1,1 +1,1 @@
-"Forked Prismarine server software." 
+Forked Prismarine server software.
